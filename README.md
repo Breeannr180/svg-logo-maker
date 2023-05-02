@@ -12,7 +12,7 @@ User will need to open their terminal and run node index.js
 
 ![SVGLogo](./images/Screenshot%20of%20logo.png)
 
-https://github.com/Breeannr180/svg-logo-maker
+https://drive.google.com/file/d/1Q2z4yw7G9y52_z1eR3rkDGBWVb340TVU/view
 
 ## License
 

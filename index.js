@@ -37,11 +37,7 @@ const textColor = prompt('Enter the text color (color keyword or hexadecimal num
   
   </svg>`;
  }
-//create SVG markup for logo
 
-// <${shape} cx="50%" cy="50%" r="50" fill="white"/>
-// <${shape} width="100%" height="100%" fill="${color}"/>
-//save svg markup to a file
 fs.writeFile('logo.svg', svgMarkup, (err) => {
   if (err) throw err;
   console.log('The file has been saved!');
